@@ -20,7 +20,7 @@
 * Embedding visualizations in websites
 * Sharing content on social media
 * Using URLs to update your data in real time
-* Navigating Maps and Profile Pages
+* Navigating Maps and Location Profile Pages
 * Other website features
 
 ## How to Use This Guide
@@ -32,6 +32,29 @@
 * Indicators are further divided topically, e.g. "Economy & Arts", "Housing", and "Poverty"
 * Some indicators may include additional documentation
 
-# Community Indicators: Profile Pages
+# Location Profiles
 
-**What Are Profile Pages?** *CNY Vitals Pro* has 
+**What Are Location Profiles?** *CNY Vitals Pro* has a unique profile for each location in CNY, including:
+
+* Counties, including Onondaga, Madison, Oswego, Cayuga, and Cortland
+* Cities, villages, and towns, from Syracuse to Skaneateles
+* Every ZIP code and census tract in Central New York
+
+You can search for a location on any page, including ZIP and census tract, in the navigation "Search" bar.
+
+## Location Profile: Summary
+
+**What is a "Profile Summary"?** Each *Location Profile* features a brief summary section where you can:
+
+* Get a glimpse of key community health indicators, like the percent of vacant units
+* Compare indicators with the US, New York State, other counties, and locations in the same county
+* Check out historical trends for patterns or interact with visualizations for exact numbers
+* Download data for each indicator or use the URL for real time updates
+* Open the data sources page for additional documentation
+
+![Profile Summary](https://raw.githubusercontent.com/jamisoncrawford/MetaVitals/master/Images/splash_summary_img.jpg)
+*The Location Profile Summary for Oondaga County with an opened dropdown menu to compare other locations.*
+
+## Location Profile: About
+
+**What is the "About" section?** 
