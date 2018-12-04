@@ -5,7 +5,7 @@
 **Background:** [CNY Vitals Pro](https://pro.cnyvitals.org/) features a number of community health indicators informed by local, state, and federal sources. While ample documentation exists for Census ACS (American Community Survey) data, how thsoe data are organized is often unclear, while locally-sourced data generally lack online documentation. We're here to help with that.
 
 ![Home Screen](https://raw.githubusercontent.com/jamisoncrawford/MetaVitals/master/Images/home_screen_img.jpg)
-*The home page for CNY Vitals Pro.*
+*The home page for CNY Vitals Pro with links to Central New York's five counties and major cities.*
 
 **Objectives:** For each CNY Vitals Pro indicator, this guide provides:
 
@@ -33,3 +33,5 @@
 * Some indicators may include additional documentation
 
 # Community Indicators: Profile Pages
+
+**What Are Profile Pages?** *CNY Vitals Pro* has 
