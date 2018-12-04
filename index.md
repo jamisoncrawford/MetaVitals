@@ -12,7 +12,7 @@
 * Units of measurement
 * Additional resources
 
-**Tutorials:** Additional tutorials are provided to take full advantage of the many features in *CNY Vitals Pro*, including:
+**Tutorials:** Tutorials help take full advantage of the many features in *CNY Vitals Pro*, including:
 
 * Embedding visualizations in websites
 * Sharing content on social media
@@ -22,7 +22,7 @@
 
 ## How to Use This Guide
 
-**Organization:** Each indicator corresponds to the tables and visualizations in *CNY Vitals Pro* and includes:
+**Organization:** Each indicator corresponds to tables and visualizations in *CNY Vitals Pro*, including:
 
 * Links to corresponding indicators in *CNY Vitals* and *CNY Vitals Pro*
 * Indicators are divided by two main categories: (1) Maps Page & (2) Profile Pages
