@@ -98,6 +98,8 @@ Each indicator contains:
 
 **Definition:** "Economy" depicts 2016 `Median Household Income` for each location (in light blue) and a compared location (in dark blue). `Median Household Income` is defined by the US Census Bureau as the 50th percentile of all income within the past 12 months among householders of age 15 or older. That is, the income shown is the amount that falls between exactly half of all households that earn more income and half of all households that earn less income. Here, `Median Househod Income` is estimated for all households and is not broken down by race, though those data are available.
 
+![Summary: Economy](https://raw.githubusercontent.com/jamisoncrawford/MetaVitals/master/Images/economy_img.jpg)
+
 **Units:** Household income is defined above. Income is measured in 2016 inflation-adjusted USD.
 
 **Data Collection:** Approximately 3.5 million "housing units" were interviewed over a 12-month period. Sampling error in selecting households is estimated using a margin of error (MOE), representing a lower and upper bound, or the lowest and highest possible values. MOE should be taken into account in all use of these data, according to the US Census Bureau. 
