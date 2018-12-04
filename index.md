@@ -4,7 +4,7 @@
 
 **Background:** [CNY Vitals Pro](https://pro.cnyvitals.org/) features a number of community health indicators informed by local, state, and federal sources. While ample documentation exists for Census ACS (American Community Survey) data, transformatios to those data are often unclear, while locally-sourced data often lack online documentation. We're here to change that.
 
-**Objectives:** The present guide aims to provide documentation and further resources for understanding these indicators, including but not limited to:
+**Objectives:** For each CNY Vitals Pro indicator, this guide provides:
 
 * Variable Definitions
 * Variable Pre-Processing & Transformation Formulas
