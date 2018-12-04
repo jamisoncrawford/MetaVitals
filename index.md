@@ -6,26 +6,27 @@
 
 **Objectives:** For each CNY Vitals Pro indicator, this guide provides:
 
-* Variable Definitions
-* Variable Pre-Processing & Transformation Formulas
-* Caveats, e.g. Margins of Error at Differing Levels of Granularity
-* Defined Units of Measurement
-* Additional Resources, e.g. Existing Documentation, Reports, and Publications
+* Indicator definitions
+* Indicator transformations
+* Indicator caveats
+* Units of measurement
+* Additional resources
 
-**Tutorials:** In addition to the above metadata, tutorials are provided, supplemented with pictures, to take full advantage of the variosu features offered in *CNY Vitals Pro*, including:
+**Tutorials:** Additional tutorials are provided to take full advantage of the many features in *CNY Vitals Pro*, including:
 
-* Embedding visualizations in your organization's website
-* Using URLs as APIs, allowing your data to update in real time
-* Navigating the Maps Page to find the data you need at the level of detail you prefer
-* Addtional website feature overviews, including supplementary images for ease of use
+* Embedding visualizations in websites
+* Sharing content on social media
+* Using URLs to update your data in real time
+* Navigating Maps and Profile Pages
+* Other website features
 
 ## How to Use This Guide
 
-**Organization:** Each indicator defined herein corresponds to a related table and visualization in CNY Vitals Pro, grouped topically and in the same order amd title as those listed in *CNY Vitals Pro*. In addition to the above metadata, hyperlinks anchored to each indicator are provided for quick access and verification.
+**Organization:** Each indicator corresponds to the tables and visualizations in *CNY Vitals Pro* and includes:
 
-* Each indicator corresponds to a visualization and table
-* Indicators are divided by two main categories: Maps Page Indicators & Profile Page Indicators
-* Within these categories, indicators are further divided topically, e.g. "Economy & Arts", "Housing", and "Poverty"
-* In general, metadata and documentation are organized in the same manner, with some indicator-specific exceptions
+* Links to corresponding indicators in *CNY Vitals* and *CNY Vitals Pro*
+* Indicators are divided by two main categories: (1) Maps Page & (2) Profile Pages
+* Indicators are further divided topically, e.g. "Economy & Arts", "Housing", and "Poverty"
+* Some indicators may include additional documentation
 
 # Community Indicators: Profile Pages
