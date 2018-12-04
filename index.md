@@ -68,7 +68,7 @@ You can search for a location, including ZIP and tracts, on any page in the navi
 * An image of the geography in relation to New York State
 
 ![About Section](https://raw.githubusercontent.com/jamisoncrawford/MetaVitals/master/Images/about_section_img.jpg)
-*The About Section features links to Location Profiles at the next level of granualrity.*
+*The About Section features links to Location Profiles at the next level of granularity.*
 
 ## Location Profile: Indicators
 
