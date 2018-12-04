@@ -90,5 +90,31 @@ Each indicator contains:
 ![Indicator Overview](https://raw.githubusercontent.com/jamisoncrawford/MetaVitals/master/Images/indicator_img.jpg)
 *Poverty by Age and Gender in the background with share options opened in the foreground.*
 
-### Indicators: Data
+## Summary Section Indicators
 
+### "Economy"
+
+**Link:** [Median Household Income for Onondaga County](https://pro.cnyvitals.org/profile/onondaga-county)
+
+**Definition:** "Economy" depicts 2016 `Median Household Income` for each location (in light blue) and a compared location (in dark blue). `Median Household Income` is defined by the US Census Bureau as the 50th percentile of all income within the past 12 months among householders of age 15 or older. That is, the income shown is the amount that falls between exactly half of all households that earn more income and half of all households that earn less income. Here, `Median Househod Income` is estimated for all households and is not broken down by race, though those data are available.
+
+**Units:** Household income is defined above. Income is measured in 2016 inflation-adjusted USD.
+
+**Data Collection:** Approximately 3.5 million "housing units" were interviewed over a 12-month period. Sampling error in selecting households is estimated using a margin of error (MOE), representing a lower and upper bound, or the lowest and highest possible values. MOE should be taken into account in all use of these data, according to the US Census Bureau. 
+
+**Additional Caveats:** Householders who may have resided in a household during the past 12 months but have since moved out during the time of data collection are not included, while householders who may not have lived in a household for the entire 12 months, so long as they're present at the time of data collection, are included.
+
+**Margin of Error:** To find the margin of error (MOE), visit [Table B19013 in Census Reporter](https://censusreporter.org/tables/B19013/) and type the name of the *Location Profile* into "Start typing to pick a place", then select the appropriate location when it appears. The MOE is symbolized with a `+/-`, followed by an amount in USD. Subtract and add this amount from the first value to calculate the lower and upper bounds, respectively.
+
+**Dataset Variables:** Clicking "Download Data" will download an spreadsheet with the following variables:
+
+* `ID Year`: The year of the ACS 1-year estimate for `Median Household Income`
+* `Year`: See `ID Year`
+* `Income Median`: The numeric value in 2016-adjusted USD for `Median Household Income`
+* `geoStatus`: A binary value indicating whether the income provided represents the location of the *Location Profile* (`me`) or the selected *Location for Comparison* (`parent`)
+* `GeoLabel`: The name of the *Location Profile* or *Location for Comparison*
+
+**Additional Resources:** The following provide additional documentation on `Median Household Income`:
+
+* [Census Reporter: Median Household Income](https://censusreporter.org/tables/B19013/)
+* [US Census Bureau: Median Household Income](https://www.census.gov/quickfacts/fact/note/US/INC110216)
